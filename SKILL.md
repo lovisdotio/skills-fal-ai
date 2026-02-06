@@ -176,3 +176,8 @@ The scripts handle common errors:
 3. **Upload large files first** - Use `./scripts/upload.sh` for files > 1MB
 4. **Set webhooks for long tasks** - Avoid polling for 3D generation
 5. **Use seeds for reproducibility** - Same seed = same output
+
+## Full Model Catalog
+
+See **MODELS.md** for the complete catalog of 500+ models organized by release date, category, and use case recommendations.
+
