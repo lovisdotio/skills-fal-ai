@@ -1,3 +1,8 @@
+---
+name: fal-generate
+description: Generate AI images, videos, audio and 3D content using fal.ai's 500+ models. Supports Kling V3, FLUX.2, Grok Imagine, Veo 3.1, MiniMax, Hunyuan 3D and more via queue-based generation.
+---
+
 # fal-generate Skill
 
 ## Overview
